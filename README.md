@@ -1,3 +1,4 @@
+![Screenshot 2023-06-26 223036](https://github.com/Manu839/clock_timer/assets/124304448/94b8aefa-48c2-41b7-bc82-326d6879ffce)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
